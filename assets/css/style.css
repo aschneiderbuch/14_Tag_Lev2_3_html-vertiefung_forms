@@ -30,3 +30,9 @@ fieldset{
     background-color: green;
     margin-left: 5vw;
 }
+
+.scroll{
+    height: 7vh;
+    width: 10vw;
+    overflow: auto;
+}
