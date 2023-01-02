@@ -11,24 +11,14 @@ fieldset{
 
 
 fieldset{
-    background-color: red;
-    display: flex;
-    flex-direction: column;
+
     padding: 2vw;
     margin: 2vw;
-    row-gap: 3vh;
+    
 }
 
-.section__text{
-    background-color: blue;
-    display: flex;
-    flex-direction: column;
-    row-gap: 1vh;
-}
-
-.section__text>article>input{
-    background-color: green;
-    margin-left: 5vw;
+td{
+    padding: 0.5vh 0;
 }
 
 .scroll{
@@ -36,3 +26,4 @@ fieldset{
     width: 10vw;
     overflow: auto;
 }
+
